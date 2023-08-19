@@ -5,4 +5,5 @@ Use the spacebar to launch projectiles to hit Knuckles.  Do not touch Knuckles o
 Defeat Knuckles to win!
 
 Sonic the Hedgehog, assets, sounds, and music @ SEGA/Sonic Team.
+
 This was a non-profit, fan based game.
